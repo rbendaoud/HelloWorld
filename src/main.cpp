@@ -6,5 +6,5 @@ int main()
 	std::cout << "That's still ok " << std::endl;
 	std::cout << "new changes" << std::endl;
 //	return 0;
-	return 1;
+	return 4;
 }
